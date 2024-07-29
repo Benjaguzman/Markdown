@@ -7,7 +7,8 @@ Este tipo de formato siempre será compatible con todas las plataformas que util
 Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
 Markdown utiliza asteriscos o guiones bajos para enfatizar.
 Simplemente tendrás que envolver palabras o textos en éstos símbolos para conseguir cursivas o negritas.
-*cursiva*
-_cursiva_
-**negrita**
-__negrita__
+
+** cursiva **
+_ cursiva _
+** negrita **
+__ negrita __
