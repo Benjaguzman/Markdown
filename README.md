@@ -5,4 +5,5 @@ Este tipo de formato siempre será compatible con todas las plataformas que util
 Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
 
 ![image](https://github.com/user-attachments/assets/aec0d491-2abc-4141-a6fa-00a6be982c8d)
+
 Sintaxis Markdown (izquierda) y Sintaxis HTML (derecha)
